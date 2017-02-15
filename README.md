@@ -308,6 +308,7 @@ sys   0m0.036s
 ***
 
 [Java](https://www.oracle.com/java/index.html)
+====
 
 ````
 $ javac Fibo.java
@@ -320,6 +321,9 @@ user  0m0.388s
 sys   0m0.236s
 
 ````
+
+***
+
 Versions used:
 --------------
 ````
