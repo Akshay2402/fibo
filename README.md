@@ -307,6 +307,19 @@ sys   0m0.036s
 
 ***
 
+[Java](https://www.oracle.com/java/index.html)
+
+````
+$ javac Fibo.java
+
+$ time java Fibo 32
+32: 2178309
+
+real  0m0.750s
+user  0m0.388s
+sys   0m0.236s
+
+````
 Versions used:
 --------------
 ````
@@ -356,5 +369,8 @@ v5.10.1
 
 $ ghc --version
 The Glorious Glasgow Haskell Compilation System, version 7.6.3
+
+$ javac -version
+javac 1.7.0_121
 
 ````

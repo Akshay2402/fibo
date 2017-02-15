@@ -5,3 +5,4 @@ mrb_fibo
 *.hi
 *.o
 *.mrb
+*.class
